@@ -5,7 +5,7 @@ A simple gulp web starter kit.
 
 ### Installation and usage
 
-1. git clone https://github.com/jeffbredenkamp/basic-web-starter-kit
+1. git clone https://github.com/jeffbredenkamp/basic-web-starter-kit.git
 2. Install NPM packages
 ```
 npm install
